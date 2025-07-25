@@ -297,9 +297,6 @@ print(response.choices[0].text)
 ### Alertas Telegram
 <img width="656" height="1086" alt="469495696-0f086b81-5093-47ed-857e-08b1883d41fd" src="https://github.com/user-attachments/assets/8b4358c5-26aa-4779-916e-241e97f81b38" />
 
-### Habilitar Grupos Telegram
-![Bot Telegram](https://github.com/user-attachments/assets/5eaa731a-da88-4b74-8cb2-a7fa2f3536e3)
-
 ### Simulación en Node-RED
 ![Simulación](https://github.com/user-attachments/assets/7bd9634a-6161-4439-bf12-9caa231c3525)
 
