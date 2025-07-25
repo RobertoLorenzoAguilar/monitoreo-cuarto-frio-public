@@ -68,7 +68,7 @@ El sistema implementa el ciclo **MAPE-K** (Monitor, Analyze, Plan, Execute – K
 5. **Knowledge**: Almacena datos históricos en MongoDB.
 
 ## Distribución Contenedores
-![Arquitectura](https://github.com/user-attachments/assets/3ee01b48-c806-493b-ab15-6cc4c0a5dcb0)
+<img width="1055" height="720" alt="468310515-3ee01b48-c806-493b-ab15-6cc4c0a5dcb0" src="https://github.com/user-attachments/assets/6337aea5-dce1-46fe-a684-7d5360eb8ca0" />
 
 ---
 
@@ -288,20 +288,20 @@ print(response.choices[0].text)
 ## 📸 Capturas
 
 ### Dashboard
-![Dashboard 1](https://github.com/user-attachments/assets/a38aa4a7-8ebf-463f-8015-c9bfb29769db)
-![Dashboard 2](https://github.com/user-attachments/assets/609aa1cc-0dd8-41d8-86f8-df881c86df30)
+<img width="1489" height="870" alt="468308388-a38aa4a7-8ebf-463f-8015-c9bfb29769db" src="https://github.com/user-attachments/assets/7d858e55-6ea5-4ef0-93b5-ad56b9a96108" />
+<img width="1416" height="846" alt="468308440-609aa1cc-0dd8-41d8-86f8-df881c86df30" src="https://github.com/user-attachments/assets/d14d18bb-5edd-4694-980f-4bba3aef153f" />
 
 ### Recomendación LLM
-<img width="656" height="945" alt="468308637-6acac98e-9750-4756-86c4-c15d226acd64" src="https://github.com/user-attachments/assets/242df1e9-dcb2-4941-8435-7311be3a5da0" />
+<img width="656" height="945" alt="470943946-242df1e9-dcb2-4941-8435-7311be3a5da0" src="https://github.com/user-attachments/assets/3e667f3c-9a95-452f-b25d-8d554372a7d4" />
 
 ### Alertas Telegram
-<img width="656" height="1086" alt="469495696-0f086b81-5093-47ed-857e-08b1883d41fd" src="https://github.com/user-attachments/assets/8b4358c5-26aa-4779-916e-241e97f81b38" />
+<img width="656" height="1086" alt="470944461-8b4358c5-26aa-4779-916e-241e97f81b38" src="https://github.com/user-attachments/assets/dfb62b93-d371-4b45-8cf4-6bf2dadccea3" />
 
 ### Simulación en Node-RED
-![Simulación](https://github.com/user-attachments/assets/7bd9634a-6161-4439-bf12-9caa231c3525)
+<img width="1018" height="453" alt="469903985-7bd9634a-6161-4439-bf12-9caa231c3525" src="https://github.com/user-attachments/assets/74e5fde1-987e-48a4-b8c3-cb4ff648c3ec" />
 
 ### Paquetes recomendados para Node-RED
-<img width="644" height="560" alt="image" src="https://github.com/user-attachments/assets/586c59c7-475b-48e1-937a-c5a7fe6332a0" />
+<img width="644" height="560" alt="470946977-586c59c7-475b-48e1-937a-c5a7fe6332a0" src="https://github.com/user-attachments/assets/b41386b6-e2f5-4d33-b5c8-8cdeabbf069a" />
 
 ---
 
